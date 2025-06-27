@@ -6,8 +6,8 @@ export function Contact(props) {
 
     return (
         <>
-            <div className=' bg-blue-100 pt-3 pb-3 pb-14' >
-                <div className='container grid grid-cols-2 '>
+            <div className=' bg-blue-100 md:pt-3  md:pb-14' >
+                <div className='container grid grid-cols-1  sm:grid-cols-2'>
                     <div className='flex flex-col items-center justify-center' >
                         <h3 className='flex justify-center text-blue-800 font-bold underline text-2xl mt-6'>contact with smart</h3>
                         <h2>(+92)3438246718</h2>

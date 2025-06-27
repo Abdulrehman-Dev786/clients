@@ -5,7 +5,7 @@ import React from 'react'
 
     return (
         <>
-            <footer id='' className=" text-white h-54   md:h-16 items-center justify-center pt-5 bg-gradient-to-r from-blue-300 to-black  shadow-lg  ">
+            <footer id='' className=" text-white h-54   md:h-16 items-center justify-center pt-5 pb-4 bg-gradient-to-r from-blue-300 to-black  shadow-lg  ">
   <div class="max-w-6xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-6">
    
     <div class="flex flex-col md:flex-row gap-4 text-sm">

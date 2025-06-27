@@ -30,7 +30,7 @@ function Project() {
       {/* personal project */}
       <section className='flex justify-evenly  bg-blue-100' id="project">
         <div className="p-12 bg-blue-100">
-          <h1 className="text-3xl font-bold mt-5 mb-5">
+          <h1 className="text-3xl font-bold mt-5 ">
             <span className='bg-gradient-to-r from-blue-100 to-black '> Personal <span className="text-blue-600">Project</span></span> 
           </h1>
           
@@ -38,7 +38,7 @@ function Project() {
             {newbox.map((item) => (
               <div
                 key={item.id}
-                className="relative group w-[500px] h-[250px] overflow-hidden rounded-xl border-4 border-gray-100"
+                className="relative group w-[300px] h-[170px]   md:w-[500px] md:h-[250px] overflow-hidden rounded-xl border-4 border-gray-100"
               >
                 <img
                   className="w-full h-full object-cover"

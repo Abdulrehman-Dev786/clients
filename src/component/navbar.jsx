@@ -33,11 +33,11 @@ const Navbar = () => {
     {closeManu && (
       <div id="formobile" className='md:hidden bg-slate-200'>
     <ul className= 'md:hidden space-y-3 font-serif justify-center text-center items-center'>
-          <li className=' bg-slate-300  mt-2 shadow-sm'>HOME</li>
-          <li className=' bg-slate-300   shadow-sm'>ABOUT US</li>
-          <li className=' bg-slate-300   shadow-sm'>SKILLS</li>
-          <li className=' bg-slate-300   shadow-sm'>PROJECT</li>
-          <li className=' bg-slate-300   shadow-sm'>CONTACT</li>
+        <li><a className='hover:text-blue-500 hover:border-t-2 border-blue-600  pt-2' href="#hero">HOME</a> </li>
+          <li><a className='hover:text-blue-500 hover:border-t-2 border-blue-600  pt-2' href="#about">ABOUT</a> </li>
+          <li><a className='hover:text-blue-500 hover:border-t-2 border-blue-600  pt-2' href="#skills">SKILLS</a> </li>
+          <li><a className='hover:text-blue-500 hover:border-t-2 border-blue-600  pt-2' href="#project">PROJECT</a> </li>
+          <li><a className='hover:text-blue-500 hover:border-t-2 border-blue-600  pt-2' href="#contact">CONTACT</a> </li>
         </ul>
     </div>
   )}
