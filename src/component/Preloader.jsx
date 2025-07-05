@@ -1,5 +1,4 @@
-
-
+import './Preloader.css';
 
 
 const Preloader = () => {
