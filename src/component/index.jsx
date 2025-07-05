@@ -1,9 +1,0 @@
-function Index(props) {
-    
-
-    return (
-        <>
-            
-        </>
-    )
-}
