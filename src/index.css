@@ -5,11 +5,3 @@
 html{
     scroll-behavior:smooth;
 }
-.face {
-  position: absolute;
-  width: 80px;
-  height: 80px;
-  background: linear-gradient(135deg, #3498db, #2c3e50);
-  opacity: 0.9;
-  border: 2px solid rgba(255, 255, 255, 0.05);
-}
