@@ -12,7 +12,7 @@ function Hero() {
         <div className='text-start pt-28 ms-9 md:ms-36'>
           <h1 className='text-2xl md:text-5xl  text-start font-bold'>HI,I'm Abdul Rehman- <br />Web Developer</h1>
           <p className='text-2xl mt-3 '>I build modern websites using React, <br />Tailwind & more.</p><br />
-          <a href="/Resume.pdf" className='p-2  bg-gradient-to-r from-blue-200 via-blue-300 hover:text-blue-700'>View Resume</a>
+          <a href="./Abdul Rehman Web Developer.pdf" className='p-2  bg-gradient-to-r from-blue-200 via-blue-300 hover:text-blue-700'>View Resume</a>
         </div>
       </div>
       <div>
